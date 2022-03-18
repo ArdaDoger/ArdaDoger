@@ -1,5 +1,4 @@
 ### Hello I'm Alenca
-
 ![version :17.08.2021](https://img.shields.io/badge/version-17.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ArdaDogercolor=red)&nbsp;
 [![GitHub Adofx](https://img.shields.io/github/followers/ArdaDoger?label=follow&style=social)](https://github.com/ArdaDoger)&nbsp;
